@@ -1,0 +1,2 @@
+# python
+pythonda oddiy codlar
